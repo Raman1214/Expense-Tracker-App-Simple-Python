@@ -38,7 +38,7 @@ Expense-Tracker/
 1. Clone this repository:
 
 ```bash
-https://github.com/Raman1214/Expense-Tracker-App-Simple-Python.git
+git clone https://github.com/Raman1214/Expense-Tracker-App-Simple-Python.git
 ```
 
 2. Move into the project folder:
